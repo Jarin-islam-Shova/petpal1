@@ -1,6 +1,7 @@
 # petpal
 
 A new Flutter project.
+![Black Simple New Year Phone Wallpaper](https://github.com/user-attachments/assets/245c44ab-d288-4f34-8b2b-146337db8859)
 
 ## Getting Started
 
