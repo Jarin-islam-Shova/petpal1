@@ -2,6 +2,7 @@
 
 A new Flutter project.
 ![Black Simple New Year Phone Wallpaper](https://github.com/user-attachments/assets/245c44ab-d288-4f34-8b2b-146337db8859)
+![2](https://github.com/user-attachments/assets/6b54454e-722d-4595-97b1-d5970cdfe753)
 
 ## Getting Started
 
